@@ -6,3 +6,6 @@ Google and OneDrive clouds
 
 ## Help
 https://www.fissm.com/help
+
+## Change Log
+https://www.fissm.com/changelog
