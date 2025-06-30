@@ -10,6 +10,7 @@ Date format is yyyy-mm-dd.
 
 ### Changed
 - 🔧 Upgraded main3.js to main4.js.
+- 🔧 This file moved from the domain to Github 
 
 ## [1.0.4] - 2025-06-19
 ### Added
