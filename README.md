@@ -8,4 +8,4 @@ Google and OneDrive clouds
 https://www.fissm.com/help
 
 ## Change Log
-https://www.fissm.com/changelog
+https://raw.githubusercontent.com/13742X/fissm/c11ac53e26ad4ccc4a05156b0d7841f965d414e1/changelog.md
