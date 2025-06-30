@@ -3,6 +3,8 @@ All notable changes are documented here.
 
 Date format is yyyy-mm-dd.
 
+# FISSM
+
 ## [1.0.5] - 2025-06-30
 ### Fixed
 - 🐛 Sync changed from dirtyflag to timestamp.
@@ -45,5 +47,10 @@ Date format is yyyy-mm-dd.
 - 🐛 Shared tab not showing the datatable.
 
 ## [1.0.0] - 2025-06-04
+### Added
+- Initial release 🎉
+
+# PADLOKK
+## [1.0.0] - 2025-06-24
 ### Added
 - Initial release 🎉
